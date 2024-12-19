@@ -1,0 +1,3 @@
+/home/alina_van/project/build/CMakeFiles/Project.dir
+/home/alina_van/project/build/CMakeFiles/edit_cache.dir
+/home/alina_van/project/build/CMakeFiles/rebuild_cache.dir
